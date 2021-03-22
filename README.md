@@ -1,0 +1,1 @@
+This is a practice from The Odin Project. The task is to recreate the Google Homepage. 
